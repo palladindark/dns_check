@@ -1,0 +1,276 @@
+Checking DNS resolution for github.com using different DNS servers:
+
+DNS Server: 77.88.8.1
+Server:		77.88.8.1
+Address:	77.88.8.1#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.3
+
+
+
+DNS Server: 77.88.8.3
+Server:		77.88.8.3
+Address:	77.88.8.3#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.4
+
+
+
+DNS Server: 77.88.8.88
+Server:		77.88.8.88
+Address:	77.88.8.88#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.3
+
+
+
+DNS Server: 2a02:6b8:0:1::feed:bad
+Error: ;; UDP setup with 2a02:6b8:0:1::feed:bad#53(2a02:6b8:0:1::feed:bad) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8:0:1::feed:bad#53(2a02:6b8:0:1::feed:bad) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8:0:1::feed:bad#53(2a02:6b8:0:1::feed:bad) for github.com failed: network unreachable.
+
+
+
+DNS Server: 2a02:6b8::feed:bad
+Error: ;; UDP setup with 2a02:6b8::feed:bad#53(2a02:6b8::feed:bad) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8::feed:bad#53(2a02:6b8::feed:bad) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8::feed:bad#53(2a02:6b8::feed:bad) for github.com failed: network unreachable.
+
+
+
+DNS Server: 94.158.96.2
+Error: Server:		94.158.96.2
+Address:	94.158.96.2#53
+
+** server can't find github.com: REFUSED
+
+
+
+DNS Server: 2a02:6b8:0:1::feed:a11
+Error: ;; UDP setup with 2a02:6b8:0:1::feed:a11#53(2a02:6b8:0:1::feed:a11) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8:0:1::feed:a11#53(2a02:6b8:0:1::feed:a11) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8:0:1::feed:a11#53(2a02:6b8:0:1::feed:a11) for github.com failed: network unreachable.
+
+
+
+DNS Server: 92.223.65.71
+Error: ;; communications error to 92.223.65.71#53: timed out
+;; communications error to 92.223.65.71#53: timed out
+;; communications error to 92.223.65.71#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 194.67.109.176
+Error: ;; communications error to 194.67.109.176#53: timed out
+;; communications error to 194.67.109.176#53: timed out
+;; communications error to 194.67.109.176#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 195.112.96.34
+Error: Server:		195.112.96.34
+Address:	195.112.96.34#53
+
+** server can't find github.com: REFUSED
+
+
+
+DNS Server: 195.208.5.1
+Server:		195.208.5.1
+Address:	195.208.5.1#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.3
+
+
+
+DNS Server: 89.250.221.106
+Error: ;; communications error to 89.250.221.106#53: timed out
+;; communications error to 89.250.221.106#53: timed out
+;; communications error to 89.250.221.106#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 93.157.172.153
+Error: ;; communications error to 93.157.172.153#53: timed out
+;; communications error to 93.157.172.153#53: timed out
+;; communications error to 93.157.172.153#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 5.44.54.106
+Error: ;; communications error to 5.44.54.106#53: timed out
+;; communications error to 5.44.54.106#53: timed out
+;; communications error to 5.44.54.106#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 94.180.111.233
+Server:		94.180.111.233
+Address:	94.180.111.233#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.3
+
+
+
+DNS Server: 178.161.150.190
+Server:		178.161.150.190
+Address:	178.161.150.190#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.4
+
+
+
+DNS Server: 217.150.35.129
+Server:		217.150.35.129
+Address:	217.150.35.129#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.3
+
+
+
+DNS Server: 2a02:6b8::feed:ff
+Error: ;; UDP setup with 2a02:6b8::feed:ff#53(2a02:6b8::feed:ff) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8::feed:ff#53(2a02:6b8::feed:ff) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8::feed:ff#53(2a02:6b8::feed:ff) for github.com failed: network unreachable.
+
+
+
+DNS Server: 2a02:6b8:0:1::feed:ff
+Error: ;; UDP setup with 2a02:6b8:0:1::feed:ff#53(2a02:6b8:0:1::feed:ff) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8:0:1::feed:ff#53(2a02:6b8:0:1::feed:ff) for github.com failed: network unreachable.
+;; UDP setup with 2a02:6b8:0:1::feed:ff#53(2a02:6b8:0:1::feed:ff) for github.com failed: network unreachable.
+
+
+
+DNS Server: 2a0c:a9c7:8::1
+Error: ;; UDP setup with 2a0c:a9c7:8::1#53(2a0c:a9c7:8::1) for github.com failed: network unreachable.
+;; UDP setup with 2a0c:a9c7:8::1#53(2a0c:a9c7:8::1) for github.com failed: network unreachable.
+;; UDP setup with 2a0c:a9c7:8::1#53(2a0c:a9c7:8::1) for github.com failed: network unreachable.
+
+
+
+DNS Server: 185.51.61.101
+Error: ;; communications error to 185.51.61.101#53: connection refused
+;; communications error to 185.51.61.101#53: connection refused
+;; communications error to 185.51.61.101#53: connection refused
+;; no servers could be reached
+
+
+
+
+DNS Server: 37.193.226.251
+Error: ;; communications error to 37.193.226.251#53: timed out
+;; communications error to 37.193.226.251#53: timed out
+;; communications error to 37.193.226.251#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 46.73.33.253
+Error: ;; communications error to 46.73.33.253#53: timed out
+;; communications error to 46.73.33.253#53: timed out
+;; communications error to 46.73.33.253#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 80.82.55.71
+Server:		80.82.55.71
+Address:	80.82.55.71#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.4
+
+
+
+DNS Server: 212.46.255.78
+Error: ;; communications error to 212.46.255.78#53: timed out
+;; communications error to 212.46.255.78#53: timed out
+;; communications error to 212.46.255.78#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 62.176.12.111
+;; communications error to 62.176.12.111#53: timed out
+Server:		62.176.12.111
+Address:	62.176.12.111#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 140.82.121.4
+
+
+
+DNS Server: 193.242.151.45
+Error: Server:		193.242.151.45
+Address:	193.242.151.45#53
+
+** server can't find github.com: SERVFAIL
+
+
+
+DNS Server: 77.233.5.68
+Error: ;; communications error to 77.233.5.68#53: timed out
+;; communications error to 77.233.5.68#53: timed out
+;; communications error to 77.233.5.68#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 195.191.182.103
+Error: ;; communications error to 195.191.182.103#53: timed out
+;; communications error to 195.191.182.103#53: timed out
+;; communications error to 195.191.182.103#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 80.245.115.97
+Error: ;; communications error to 80.245.115.97#53: timed out
+;; communications error to 80.245.115.97#53: timed out
+;; communications error to 80.245.115.97#53: timed out
+;; no servers could be reached
+
+
+
+
+DNS Server: 46.229.136.244
+Error: ;; communications error to 46.229.136.244#53: timed out
+;; communications error to 46.229.136.244#53: timed out
+;; communications error to 46.229.136.244#53: timed out
+;; no servers could be reached
+
+
+
+
